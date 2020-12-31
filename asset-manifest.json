@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quan-ly-bong-da/static/css/main.f7c4d775.chunk.css",
+    "main.js": "/quan-ly-bong-da/static/js/main.9b24ca27.chunk.js",
+    "main.js.map": "/quan-ly-bong-da/static/js/main.9b24ca27.chunk.js.map",
+    "runtime-main.js": "/quan-ly-bong-da/static/js/runtime-main.87527350.js",
+    "runtime-main.js.map": "/quan-ly-bong-da/static/js/runtime-main.87527350.js.map",
+    "static/js/2.d35d8fcb.chunk.js": "/quan-ly-bong-da/static/js/2.d35d8fcb.chunk.js",
+    "static/js/2.d35d8fcb.chunk.js.map": "/quan-ly-bong-da/static/js/2.d35d8fcb.chunk.js.map",
+    "static/js/3.eefc737a.chunk.js": "/quan-ly-bong-da/static/js/3.eefc737a.chunk.js",
+    "static/js/3.eefc737a.chunk.js.map": "/quan-ly-bong-da/static/js/3.eefc737a.chunk.js.map",
+    "index.html": "/quan-ly-bong-da/index.html",
+    "static/css/main.f7c4d775.chunk.css.map": "/quan-ly-bong-da/static/css/main.f7c4d775.chunk.css.map",
+    "static/js/2.d35d8fcb.chunk.js.LICENSE.txt": "/quan-ly-bong-da/static/js/2.d35d8fcb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/quan-ly-bong-da/static/media/lewy.56262e63.png",
+    "static/media/logo.6ce24c58.svg": "/quan-ly-bong-da/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87527350.js",
+    "static/js/2.d35d8fcb.chunk.js",
+    "static/css/main.f7c4d775.chunk.css",
+    "static/js/main.9b24ca27.chunk.js"
+  ]
+}
