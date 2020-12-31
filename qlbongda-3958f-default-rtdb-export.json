@@ -1,0 +1,349 @@
+{
+  "Club" : [ null, null, {
+    "background" : "./../images/dortmund.jpg",
+    "detail" : "Ballspielverein Borussia 09 e.V. Dortmund, commonly known as Borussia Dortmund",
+    "idclub" : 2,
+    "logo" : "./../images/dortmund.png",
+    "name" : " Borussia Dortmund",
+    "player" : [ null, {
+      "avt" : "./../images/haaland2.png",
+      "birth" : "23-12-1999",
+      "country" : "Norway",
+      "height" : "185cm",
+      "name" : "Erling HaaLand",
+      "weight" : "80kg"
+    }, {
+      "avt" : "./../images/smelzer.png",
+      "birth" : "19-7-1996",
+      "country" : "Germany",
+      "height" : "189cm",
+      "name" : "Marcel Schmelzer",
+      "weight" : "87kg"
+    }, {
+      "avt" : "./../images/hummel.png",
+      "birth" : "18-9-1987",
+      "country" : "Germany",
+      "height" : 198,
+      "name" : "Mats Hummels",
+      "weight" : "76kg"
+    }, {
+      "avt" : "./../images/sancho.png",
+      "birth" : "17-7-1998",
+      "country" : "England",
+      "height" : "186cm",
+      "name" : "Jadon Sancho",
+      "weight" : "86kg"
+    }, {
+      "avt" : "./../images/reus.png",
+      "birth" : "19-05-1998",
+      "country" : "Germany",
+      "height" : "197cm",
+      "name" : "Marco Reus",
+      "weight" : "89kg"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=l5bGfXCKZdU"
+  }, {
+    "background" : "./../images/hff.jpg",
+    "detail" : "Turn- und Sportgemeinschaft 1899 Hoffenheim e.V., or simply TSG 1899 Hoffenheim is a German professional football club based in Hoffenheim",
+    "idclub" : 3,
+    "logo" : "./../images/Hoffenheim.png",
+    "name" : "TSG 1899 Hoffenheim",
+    "player" : [ null, {
+      "avt" : "./../images/florian.png",
+      "birth" : "29-12-1998",
+      "county" : "spain",
+      "height" : "189cm",
+      "name" : "Kasim Adams",
+      "weight" : 89
+    }, {
+      "avt" : "./../images/dabbur.png",
+      "birth" : "10-8-1997",
+      "country" : "Isarel",
+      "height" : "187cm",
+      "name" : "Munas Dabbur",
+      "weight" : "87kg"
+    }, {
+      "avt" : "./../images/geiger.png",
+      "birth" : "10-9-1987",
+      "country" : "Grecce",
+      "height" : "197cm",
+      "name" : "Dennis Geiger",
+      "weight" : "67kg"
+    }, {
+      "avt" : "./../images/bicakkic.png",
+      "birth" : "10-9-1997",
+      "country" : "malaysia",
+      "height" : "176cm",
+      "name" : "Ermin Bicakcic",
+      "weight" : "89kg"
+    }, {
+      "avt" : "./../images/bauman.png",
+      "birth" : "10-8-2000",
+      "country" : "USA",
+      "height" : "187cm",
+      "name" : "Alex Masan",
+      "weight" : "98kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "background" : "./../images/stg.jpg",
+    "detail" : "Verein für Bewegungsspiele Stuttgart 1893 e. V, is a German sports club based in Stuttgart, Baden-Württemberg",
+    "idclub" : 4,
+    "logo" : "./../images/Stuttgart.png",
+    "name" : "VfB Stuttgart",
+    "player" : [ null, {
+      "avt" : "./../images/kobe.png",
+      "birth" : "19-11-1998",
+      "country" : "poland",
+      "height" : "189cm",
+      "name" : "Gregor Kobel",
+      "weight" : 87
+    }, {
+      "avt" : "./../images/tanguy.png",
+      "birth" : "10-9-1987",
+      "country" : "Indonesia",
+      "height" : "198cm",
+      "name" : "Maalan Antonio",
+      "weight" : "67kg"
+    }, {
+      "avt" : "./../images/didavi.png",
+      "birth" : "10-9-1999",
+      "country" : "Holland",
+      "height" : "189cm",
+      "name" : "Daniel Didavi",
+      "weight" : "67kg"
+    }, {
+      "avt" : "./../images/erik.png",
+      "birth" : "19-3-1987",
+      "country" : "England",
+      "height" : "187cm",
+      "name" : "Erik Thommy",
+      "weight" : "76kg"
+    }, {
+      "avt" : "./../images/marc.png",
+      "birth" : "19-9-1976",
+      "country" : "Italia",
+      "height" : "178cm",
+      "name" : "Tanguy Coulibaly",
+      "weight" : "67kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "background" : "./../images/rb.jpg",
+    "detail" : "RasenBallsport Leipzig e.V. (lit. 'Lawn Ball Sports Leipzig'), commonly known as RB Leipzig, is a German professional football club based in Leipzig, Saxony",
+    "idclub" : 5,
+    "logo" : "./../images/rb-leipzig-logo.png",
+    "name" : "RB Leipzig",
+    "player" : [ null, {
+      "avt" : "./../images/poulsen.png",
+      "birth" : "12-12-1996",
+      "country" : "ThaiLand",
+      "county" : "USA",
+      "height" : 187,
+      "name" : "Fabrice Hartmann",
+      "weight" : 89
+    }, {
+      "avt" : "./../images/gulasi.png",
+      "birth" : "09-2-1987",
+      "country" : "Austraila",
+      "height" : "187cm",
+      "name" : "Marcel Sabitzer",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/orban.png",
+      "birth" : "19-10-1998",
+      "country" : "Hunggary",
+      "height" : "187cm",
+      "name" : "Willi Orban",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/forsberg.png",
+      "birth" : "10-1-1998",
+      "country" : "Dermark",
+      "height" : "186cm",
+      "name" : "Emil Forsberg",
+      "weight" : "67kg"
+    }, {
+      "avt" : "./../images/sabitzer.png",
+      "birth" : "5-9-1998",
+      "country" : "Campuchia",
+      "height" : "187cm",
+      "name" : "Péter Gulácsi",
+      "weight" : "78kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "background" : "./../images/wb.jpg",
+    "detail" : "Wolfsburg e. V., is a German professional sports club based in Wolfsburg, Lower Saxony",
+    "idclub" : 6,
+    "logo" : "./../images/Wolfsburg.png",
+    "name" : "VfL Wolfsburg",
+    "player" : [ null, {
+      "avt" : "./../images/renato.png",
+      "birth" : "27-12-1998",
+      "country" : "swiss",
+      "height" : "177cm",
+      "name" : "Kevin Mbabu",
+      "weight" : 78
+    }, {
+      "avt" : "./../images/mali.png",
+      "birth" : "10-10-1978",
+      "country" : "Isarel",
+      "height" : "176cm",
+      "name" : "Yunus Malli",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/josip.png",
+      "birth" : "10-10-1987",
+      "country" : "France",
+      "height" : "178cm",
+      "name" : "Renato Steffen",
+      "weight" : "67kg"
+    }, {
+      "avt" : "./../images/koen.png",
+      "birth" : "10-10-1987",
+      "country" : "France",
+      "height" : "178cm",
+      "name" : "Josip Brekalo",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/william.png",
+      "birth" : "10-1-1987",
+      "country" : "Brazil",
+      "height" : "189cm",
+      "name" : "William Carvalho",
+      "weight" : "89kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "background" : "./../images/lever.jpg",
+    "detail" : "Bayer 04 Leverkusen Fußball GmbH, Bayer Leverkusen, or simply Leverkusen, is a German professional football club based in Leverkusen",
+    "idclub" : 7,
+    "logo" : "./../images/lever.png",
+    "name" : "Bayer 04 Leverkusen",
+    "player" : [ null, {
+      "avt" : "./../images/kerem.png",
+      "birth" : "29-10-1999",
+      "county" : "spain",
+      "height" : "198cm",
+      "name" : "Kerem Demirbay",
+      "weight" : 87
+    }, {
+      "avt" : "./../images/amitri.png",
+      "birth" : "10-12-1988",
+      "country" : "Grecce",
+      "height" : "199cm",
+      "name" : "Nadiem Amiri",
+      "weight" : "89kg"
+    }, {
+      "avt" : "./../images/bender.png",
+      "birth" : "10-7-1988",
+      "country" : "Germany",
+      "height" : "188cm",
+      "name" : "Lars Bender",
+      "weight" : "87kg"
+    }, {
+      "avt" : "./../images/tah.png",
+      "birth" : "10-8-1999",
+      "country" : "Germany",
+      "height" : "189cm",
+      "name" : "Jonathan Tah",
+      "weight" : "79kg"
+    }, {
+      "avt" : "./../images/lukas.png",
+      "birth" : "19-8-1987",
+      "country" : "Holland",
+      "height" : "187cm",
+      "name" : "Lukáš Hrádecký",
+      "weight" : "89kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "5" : {
+      "avt" : "./../images/milot.png",
+      "birth" : "19-10-1986",
+      "country" : "Holland",
+      "height" : "177cm",
+      "name" : "Ludwig Augustinsson",
+      "weight" : "67kg"
+    },
+    "background" : "./../images/wd.jpg",
+    "detail" : "Sportverein Werder Bremen von 1899 e. V, commonly known as Werder Bremen or simply Werder, is a German professional sports club based in Bremen.",
+    "idclub" : 8,
+    "logo" : "./../images/bremen.png",
+    "name" : "SV Werder Bremen",
+    "player" : [ null, {
+      "avt" : "./../images/ludig.png",
+      "birth" : "21-7-18-1997",
+      "country" : "turkish",
+      "height" : "198cm",
+      "name" : "Omer Toprak",
+      "weight" : 77
+    }, {
+      "avt" : "./../images/felix.png",
+      "birth" : "19-10-1987",
+      "country" : "Tuinisia",
+      "height" : "187cm",
+      "name" : "Felix Agu",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/leonardo.png",
+      "birth" : "19-10-1986",
+      "country" : "Italia",
+      "height" : "187cm",
+      "name" : "Leonardo Bittencourt",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/jiri.png",
+      "birth" : "19-10-1988",
+      "country" : "Slovakia",
+      "height" : "199cm",
+      "name" : "Jiri Pavlenka",
+      "weight" : "89kg"
+    } ],
+    "video" : "null1"
+  }, {
+    "background" : "./../images/bayern11.png",
+    "detail" : "Fußball-Club Bayern München e.V. (German pronunciation: [ˈfuːsbalˌklʊp ˈbaɪɐn ˈmʏnçn̩]), commonly known as FC Bayern München",
+    "idclub" : 9,
+    "logo" : "./../images/bayern.png",
+    "name" : "BayernMunich",
+    "player" : [ null, {
+      "avt" : "./../images/neuer.png",
+      "birth" : "12-12-1987",
+      "country" : "Germany",
+      "height" : "189cm",
+      "name" : "Manuel Neuer",
+      "weight" : 78
+    }, {
+      "avt" : "./../images/alaba.png",
+      "birth" : "18-5-1997",
+      "country" : "Austrian ",
+      "height" : "198cm",
+      "name" : "David Alaba",
+      "weight" : "78kg"
+    }, {
+      "avt" : "./../images/gnabry.png",
+      "birth" : "19-10-1987",
+      "country" : "Germany",
+      "height" : "196cm",
+      "name" : "Serge Grabry",
+      "weight" : "87kg"
+    }, {
+      "avt" : "./../images/lewandowski.png",
+      "birth" : "19-10-1986",
+      "country" : "Poland",
+      "height" : "189cm",
+      "name" : "Robert Lewandowski",
+      "weight" : "87kg"
+    }, {
+      "avt" : "./../images/boateng.png",
+      "birth" : "10-1-1997",
+      "country" : "Germany",
+      "height" : "198cm",
+      "name" : "Jérôme Boateng",
+      "weight" : "87kg"
+    } ],
+    "video" : "./../images/bayern.mp4"
+  } ]
+}
